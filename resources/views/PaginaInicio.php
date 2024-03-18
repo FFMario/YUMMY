@@ -63,14 +63,14 @@
     <!-- Section -->
     <section>
         <h1>Yummy</h1>
-        <p style="font-size: 40px;">De la cocina a tu butaca</p>
-        <p style="font-size: 20px;">"La comunidad Yummy te espera. Únete al festín."</p>
+        <p style="font-size: 40px;">DE LA COCINA A TU BUTACA</p>
+        <p style="font-size: 20px;">"La comunidad Yummy te espera, Únete"</p>
         <div class="d-flex">
             <button class="btn btn-primary me-2" style="background-color: #FE7021; border-color: #FE7021;" onclick="window.location.href='inicioRegis'">Iniciar Sesión</button>
             <button class="btn btn-success" style="background-color: transparent; border-color: white; color: white;" onclick="window.location.href='inicioRegis'">Regístrate</button>
         </div>
         <div class="motivational-text">
-            <p>¡Si deseas unirte a la comunidad de vendedores de Yummy o </p>
+            
             <p>ya eres parte <a href="inicioRegisV">da click aquí</a>!</p>
         </div>
     </section>
